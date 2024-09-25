@@ -1,0 +1,1 @@
+// ans value of b and c are respectively300and200
